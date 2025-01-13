@@ -1,16 +1,11 @@
-## Hi there 👋
+Hi there 👋
 
-<!--
-**liftedYOTA/liftedYOTA** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Hi, I’m Ethan
+- I’m interested in Computer Engineering
+- I’m currently learning Computer Engineering
+- I'm originally from Oahu, Hawaii
+- I'm a Sophomore in Computer Engineering
+- I chose my major because i'm asian
+- A fun fact about me is:  i'm a chill guy
+- What do I want to learn from EE 205?  Object Oriented Programming
+- A book or movie I'd recommend is: Dune Part II
